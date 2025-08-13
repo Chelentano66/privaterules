@@ -1,7 +1,7 @@
-auphonic.com
-krisp.ai
-podcastle.ai
-veed.io
-techsmith.com
-media.io
-descript.com
+DOMAIN-SUFFIX,auphonic.com
+DOMAIN-SUFFIX,krisp.ai
+DOMAIN-SUFFIX,podcastle.ai
+DOMAIN-SUFFIX,veed.io
+DOMAIN-SUFFIX,techsmith.com
+DOMAIN-SUFFIX,media.io
+DOMAIN-SUFFIX,descript.com
