@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,auphonic.com
 DOMAIN-SUFFIX,krisp.ai
 DOMAIN-SUFFIX,podcastle.ai
-DOMAIN-SUFFIX,poiskpravdy.com
+DOMAIN-SUFFIX,poiskpravdy.com,PROXY
 DOMAIN-SUFFIX,techsmith.com
 DOMAIN-SUFFIX,media.io
 DOMAIN-SUFFIX,descript.com
