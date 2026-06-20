@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,fabrika-fotoknigi.com
 DOMAIN-SUFFIX,ecowitt.net
 DOMAIN-SUFFIX,ambientweather.net
+DOMAIN-KEYWORD,xiaomi,DIRECT
+DOMAIN-SUFFIX,mi.com,DIRECT
